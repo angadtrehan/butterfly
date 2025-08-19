@@ -1,7 +1,7 @@
 
 // on load
 const DB_KEY = 'butterfly_wings';
-const SETUP_KEY = "setup1"
+const SETUP_KEY = "setup0"
 const WING_LIST = [
     "Glymphatic clearance",
     "CRISPR origins",
